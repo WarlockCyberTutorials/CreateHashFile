@@ -1,0 +1,5 @@
+C:\Users\douglas.sanches\source\repos\TesteHashDeArquivos\CreateHashFile\bin\Debug\CreateHashFile.dll
+C:\Users\douglas.sanches\source\repos\TesteHashDeArquivos\CreateHashFile\bin\Debug\CreateHashFile.pdb
+C:\Users\douglas.sanches\source\repos\TesteHashDeArquivos\CreateHashFile\obj\Debug\CreateHashFile.csproj.CoreCompileInputs.cache
+C:\Users\douglas.sanches\source\repos\TesteHashDeArquivos\CreateHashFile\obj\Debug\CreateHashFile.dll
+C:\Users\douglas.sanches\source\repos\TesteHashDeArquivos\CreateHashFile\obj\Debug\CreateHashFile.pdb
